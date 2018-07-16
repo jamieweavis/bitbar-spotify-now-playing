@@ -1,6 +1,6 @@
 # bitbar-spotify-now-playing
 
-> 🎧 Simple "now playing" Spotify plugin for BitBar
+> 🎧 Simple now playing Spotify plugin for BitBar
 
 <img src="screenshot.gif" width=400>
 

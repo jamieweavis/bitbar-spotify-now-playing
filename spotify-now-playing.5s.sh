@@ -3,8 +3,8 @@
 # Spotify Now Playing
 # https://github.com/jamieweavis/spotify-now-playing
 #
-# Simple "now playing" Spotify plugin for BitBar
-# 
+# Simple now playing Spotify plugin for BitBar
+#
 # by Jamie Weavis <jamie.weavis@gmail.com>
 #
 # metadata
@@ -12,7 +12,7 @@
 # <bitbar.version>v1.0.0</bitbar.version>
 # <bitbar.author>Jamie Weavis</bitbar.author>
 # <bitbar.author.github>jamieweavis</bitbar.author.github>
-# <bitbar.desc>Simple "now playing" Spotify plugin for BitBar</bitbar.desc>
+# <bitbar.desc>Simple now playing Spotify plugin for BitBar</bitbar.desc>
 # <bitbar.image>https://raw.githubusercontent.com/jamieweavis/spotify-now-playing/master/screenshot.gif</bitbar.image>
 
 function tellSpotify() {
