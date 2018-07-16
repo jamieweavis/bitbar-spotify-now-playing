@@ -9,7 +9,7 @@
 #
 # metadata
 # <bitbar.title>Spotify Now Playing</bitbar.title>
-# <bitbar.version>v1.0.0</bitbar.version>
+# <bitbar.version>v1.0.1</bitbar.version>
 # <bitbar.author>Jamie Weavis</bitbar.author>
 # <bitbar.author.github>jamieweavis</bitbar.author.github>
 # <bitbar.desc>Simple now playing Spotify plugin for BitBar</bitbar.desc>
