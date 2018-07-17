@@ -13,7 +13,7 @@
 # <bitbar.author>Jamie Weavis</bitbar.author>
 # <bitbar.author.github>jamieweavis</bitbar.author.github>
 # <bitbar.desc>Simple now playing Spotify plugin for BitBar</bitbar.desc>
-# <bitbar.image>https://raw.githubusercontent.com/jamieweavis/spotify-now-playing/master/screenshot.gif</bitbar.image>
+# <bitbar.image>https://raw.githubusercontent.com/jamieweavis/spotify-now-playing/master/demo@2x.gif</bitbar.image>
 
 function tellSpotify() {
   osascript -e "tell application \"Spotify\" to $1"
