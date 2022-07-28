@@ -5,7 +5,7 @@
 #
 # Simple now playing Spotify plugin for BitBar
 #
-# by Jamie Weavis <jamie.weavis@gmail.com>
+# by Jamie Weavis
 #
 # metadata
 # <bitbar.title>Spotify Now Playing</bitbar.title>
